@@ -24,15 +24,19 @@ The company specializes in selling computer hardware products throughout India a
      - Created a timeline with a drill-down feature from years to months using a hierarchical structure 📊.
      - Implemented bookmarks for quick access to insights on the best and worst products and customers regarding profit 📑.
      - Added slicers for filtering by product types 🔍.
-
+       
+![Sales Overview](https://github.com/user-attachments/assets/e0733b70-7f99-41c8-8ac0-ce7474f6e47d)
    - **Customer Details Page**:
      - Designed as a drill-through page accessible from any customer in the Sales Overview 🔄.
      - Included various slicers and complex visualizations focusing on **Profit Margin** 💵 and **Total Revenue** 📈.
      - Highlighted the most profitable and popular products for each customer 🌟.
-
+       
+![Customer Details](https://github.com/user-attachments/assets/e71f2ff8-7ee7-45b4-9ad3-bdf4789348f5)
    - **Product Details Page**:
      - Created a dedicated page for detailed insights into individual products 🛍️.
      - Enabled drill-through capabilities to view metrics such as **Unit Price** 💲, **Units Sold** over time 📅, **Total Profit** 💰, and **Number of Transactions** 🔢.
+       
+![Product Details](https://github.com/user-attachments/assets/48e4e7fa-be55-4f24-bb3c-ff0d775782d2)
 
 4. **Final Touches and Insights 🔍**
    - Conducted thorough testing of all visualizations and interactions ✅.
