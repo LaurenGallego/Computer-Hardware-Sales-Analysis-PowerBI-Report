@@ -1,6 +1,6 @@
 # 📊 Power BI Dashboard: Dynamic Market Analysis for Computer Hardware Sales Across India
 
-## Problem Statement 🚀
+## Challenge 🚀
 The company specializes in selling computer hardware products throughout India and is experiencing dynamic market growth. However, the Sales Director is concerned about gaining a clear and objective understanding of the business landscape. There is a pressing need for a detailed overview of key aspects, including **products**, **customers**, and regional **markets** (North, South, Central). This Power BI dashboard aims to address these concerns by providing actionable insights and facilitating data-driven decision-making.
 
 ## Project Steps 🔍
